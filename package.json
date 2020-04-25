@@ -1,0 +1,22 @@
+{
+  "name": "fe-progress",
+  "version": "1.0.0",
+  "description": "一步步成长记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LQ-FE/fe-progress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LQ-FE/fe-progress/issues"
+  },
+  "homepage": "https://github.com/LQ-FE/fe-progress#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
